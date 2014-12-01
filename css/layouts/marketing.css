@@ -106,7 +106,12 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-    style="display: block;"
+    /*display: inline-block;*/
+    /*display: block; 
+    width: 310px;
+    height: 50px;
+    background-image: url("img/logo-small.png");
+    pointer-events:none;*/
 }
 
 .home-menu .pure-menu-selected a {
