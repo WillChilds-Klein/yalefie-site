@@ -282,23 +282,36 @@ a.pure-button-primary {
 /*
  * added by Will
  */
- .about-text {
-    text-align: justify;
-    font-size: 125%;
- }
+.about-text {
+   text-align: justify;
+   font-size: 125%;
+   color: #0F4D92;
+}
 
- #about {
-    height: 100vh;
-    background-color: #ffffff;
- }
+#about {
+   height: 100vh;
+   background-color: #ffffff;
+}
 
- #buzz {
-    height: 100vh;
-    background-color: #0B9DD8;
- }
+#buzz {
+   height: 100vh;
+   background-color: #0B9DD8;
+}
 
- #team {
-    height: 100vh;
-    background: url(../img/yalefie-collage.jpg);
-    background-color: #cccccc;
- }
+#team {
+   height: 100vh;
+   background: url(../img/yalefie-collage.jpg);
+   background-color: #cccccc;
+}
+
+#about-title {
+    color: #0F4D92;
+}
+
+#buzz-title {
+    color: #ffffff;
+}
+
+#team-title {
+
+}
