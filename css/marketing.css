@@ -292,6 +292,7 @@ a.pure-button-primary {
 .fa {
     display: block;
     float: right;
+    color: #0F4D92;
 }
 
 #social-button {
@@ -325,5 +326,5 @@ a.pure-button-primary {
 }
 
 #team-title {
-
+    color: #0F4D92;
 }
