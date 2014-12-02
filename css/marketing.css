@@ -302,11 +302,25 @@ a.pure-button-primary {
 #social-button {
     text-align: center;
     overflow: hidden;
+    text-align: center;
+}
+#social-button:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+
+ }
+.vertical-centering-block{
+    display: inline-block;
     vertical-align: middle;
+    padding: 10px 15px;
+
 }
 #social-button img {
     display: block;
     margin: 20px auto;
+
 }
 
 #about {
