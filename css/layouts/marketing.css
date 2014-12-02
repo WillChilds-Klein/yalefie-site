@@ -93,10 +93,9 @@ a.pure-button-primary {
 .home-menu {
     padding: 0.5em;
     text-align: center;
-    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu.pure-menu-open {
-    background: #2d3e50;
+    background: #0F4D92;
 }
 .pure-menu.pure-menu-open.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
@@ -135,9 +134,9 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+    background: #0F4D92;
     z-index: 1;
-    overflow: hidden;
+    /*overflow: hidden;*/
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
     height: 88%;
