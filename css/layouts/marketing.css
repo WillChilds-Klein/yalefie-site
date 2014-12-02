@@ -292,3 +292,9 @@ a.pure-button-primary {
     text-align: justify;
     font-size: 125%;
  }
+
+ #about,
+ #buzz,
+ #team {
+  height: 100vh;  
+ }
