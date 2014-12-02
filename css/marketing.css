@@ -315,3 +315,8 @@ a.pure-button-primary {
 #team-title {
 
 }
+
+.fa {
+    display: block;
+    float: right;
+}
