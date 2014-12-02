@@ -283,3 +283,12 @@ a.pure-button-primary {
         font-size: 300%;
     }
 }
+
+
+/*
+ * added by Will
+ */
+ .about-text {
+    text-align: justify;
+    font-size: 125%;
+ }
