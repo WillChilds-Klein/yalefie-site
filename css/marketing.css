@@ -302,3 +302,8 @@ a.pure-button-primary {
     background: url(../img/yalefie-collage.jpg);
     background-color: #cccccc;
  }
+
+.fa {
+    display: block;
+    float: right;
+}
