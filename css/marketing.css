@@ -280,19 +280,28 @@ a.pure-button-primary {
 
 
 /*
- * added by Will
+ * added by Will & Taylor
  */
+
 .about-text {
    text-align: justify;
    font-size: 125%;
    color: #0F4D92;
    vertical-align: middle;
+   text-indent: 50px;
 }
 
 .fa {
     display: block;
     float: right;
     color: #0F4D92;
+}
+
+.vertical-centering-block{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px 15px;
+
 }
 
 #example-yalefie {
@@ -311,12 +320,7 @@ a.pure-button-primary {
   vertical-align: middle;
 
  }
-.vertical-centering-block{
-    display: inline-block;
-    vertical-align: middle;
-    padding: 10px 15px;
 
-}
 #social-button img {
     display: block;
     margin: 20px auto;
@@ -333,7 +337,7 @@ a.pure-button-primary {
    background-color: #0B9DD8;
 }
 
-#team {
+#fair-use {
    height: 100vh;
    background: url(../img/yalefie-collage.jpg);
    background-color: #cccccc;
@@ -347,19 +351,19 @@ a.pure-button-primary {
     color: #ffffff;
 }
 
-#surround-team{
+#surround-fair-use{
     background-color: white;
     height: 40px;
     width: 200px;
     border-radius: 3px;
     margin: 0 auto;
 }
-#team-title {
+#fair-use-title {
     color: #0F4D92;
     padding-top: 8px;
 }
 
-#team-text {
+#fair-use-text {
     display: block;
     width: 75%;
     padding: 30px;
